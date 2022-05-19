@@ -1,0 +1,27 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{D57D2468-C84F-4D36-979F-8638320762F6}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="FirstGitApp/Pages/Index.cshtml" Line="9" Column="129" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstGitApp" expanded="True">
+            <Node name="FirstGitApp" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FirstGitApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
